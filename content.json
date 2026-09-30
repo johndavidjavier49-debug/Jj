@@ -6,7 +6,7 @@
   "f1": "Course / Year",
   "f2": "BSCS 3BCavite State University Silang Campus",
   "f3": "ohndavid.javier@cvsu.edu.ph",
-  "pic": "uploads/profile-photo.jpg"
+  "pic": blob:https://web.facebook.com/bd5774bd-2454-49fd-a54b-f6070455ee75
  },
  "files": [
   {
@@ -14,9 +14,9 @@
    "name": "profile-photo.jpg",
    "type": "image/jpeg",
    "size": 47628,
-   "path": "uploads/1790726100457277-profile-photo.jpg"
-  },
+   "path": 
   {
+  },
    "cat": "project",
    "name": "index.html",
    "type": "text/html",
